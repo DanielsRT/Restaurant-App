@@ -1,0 +1,13 @@
+Taco Bell
+Clairborne & Napoleon
+Crunchy Taco Supreme,1.69
+Soft Taco Supreme,1.69
+Chicken Soft Taco,1.79
+Grilled Steak Soft Taco,2.49
+Bean Burrito,1.29
+Chicken Burrito,1.79
+Cheese Potato Burrito,2.39
+Combo Burrito,2.59
+Soft Drink 16 oz,1.49
+Soft Drink 20 oz,1.59
+Soft Drink 30 oz,1.89

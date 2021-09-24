@@ -1,0 +1,12 @@
+Wendy's
+Clairborne & Milan
+Baconator,6.09
+Son of Baconator,4.69
+Spicy Chicken,4.69
+Homestyle Chicken,4.69
+Natural-Cut Fries Small,1.69
+Natural-Cut Fries Medium,1.99
+Natural-Cut Fries Large,2.19
+Soft Drink Small,1.69
+Soft Drink Medium,1.89
+Soft Drink Large,2.19

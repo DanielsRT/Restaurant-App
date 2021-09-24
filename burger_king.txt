@@ -1,0 +1,15 @@
+Burger King
+Carrollton & Tulane
+Whopper,4.19
+Double Whopper,5.29
+Bacon Cheeseburger,1.49
+Bacon Double Cheeseburger,2.29
+Onion Rings Small,1.79
+Onion Rings Medium,2.19
+Onion Rings Large,2.39
+French Fries Small,1.79
+French Fries Medium,2.19
+French Fries Large,2.39
+Fountain Drink Small,1.79
+Fountain Drink Medium,2.09
+Fountain Drink Large,2.39
